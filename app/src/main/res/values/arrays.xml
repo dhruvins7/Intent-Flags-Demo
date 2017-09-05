@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intents">
+        <item>null</item>
+        <item>Intent.FLAG_ACTIVITY_CLEAR_TOP</item>
+        <item>Intent.FLAG_ACTIVITY_REORDER_TO_FRONT</item>
+        <item>Intent.FLAG_ACTIVITY_NO_HISTORY</item>
+        <item>Intent.FLAG_ACTIVITY_PREVIOUS_IS_TOP</item>
+        <item>Intent.FLAG_ACTIVITY_SINGLE_TOP</item>
+    </string-array>
+</resources>
